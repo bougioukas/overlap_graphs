@@ -1,5 +1,5 @@
 # overlap_graphs
-Data and code for depicting overlap in overviews of systematic reviews
+Data and code for depicting overlap in overviews of systematic reviews.
 
 If any of this material is used for future research work, please cite  the original manuscript:<br />
 
