@@ -70,4 +70,4 @@ export_formattable <- function(f, file, width = "100%", height = NULL,
 }
 
 
-export_formattable(tb, here("figures","tb.png"))
+#export_formattable(tb, here("tb.png"))
